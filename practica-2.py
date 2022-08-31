@@ -2,7 +2,6 @@ from unicodedata import name
 import streamlit as st
 import pandas as pd
 import codecs as cd
-import matplotlib.pyplot as plt
 import numpy as np
 #st.title('Cycles Rides in NYC')
 sidebar = st.sidebar
